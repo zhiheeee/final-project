@@ -1,6 +1,6 @@
 |项目名    |项目地址                                     |
 |:-------:|:-------------------------------------------:|
-|专注计时器 |git@github.com:whjyyds/focus-alarm-clock.git|   |https://github.com/whjyyds/focus-alarm-clock.git|
+|专注计时器 ||https://github.com/whjyyds/focus-alarm-clock.git|
 
 ## 简介
 快节奏的时代人们失去了时间观念，很难让自己静下来。这是一个记时的小程序，考验自己的专注能力，让自己静下来好好感受时间。
